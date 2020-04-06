@@ -4,7 +4,7 @@ CoronoVirus (COVID-19) Outbreak data analysis, visualization and prediction Coro
 
 Most recently, authorities identified a new coronavirus outbreak in China that has now reached other countries. It has the name coronavirus disease 2019, or COVID-19.
 
-![Covid 19](https://camo.githubusercontent.com/3481f5f4dea755ae137baab3d8feffea55abbf5b/68747470733a2f2f6b696e67636f756e74792e676f762f64657074732f6865616c74682f636f6d6d756e696361626c652d64697365617365732f646973656173652d636f6e74726f6c2f7e2f6d656469612f64657074732f6865616c74682f636f6d6d756e696361626c652d64697365617365732f696d616765732f62616e6e65722d636f726f6e6176697275732e61736878)
+![Covid 19](https://medicircle.in/uploads/2020/february2020/who_names_coronavirus_as_covid_19.jpg)
 # What is a coronavirus?
 
 Researchers first isolated a coronavirus in 1937. They found a coronavirus responsible for an infectious bronchitis virus in birds that had the ability to devastate poultry stocks. Scientists first found evidence of human coronaviruses (HCoV) in the 1960s in the noses of people with the common cold. Two human coronaviruses are responsible for a large proportion of common colds: OC43 and 229E. The name “coronavirus” comes from the crown-like projections on their surfaces. “Corona” in Latin means “halo” or “crown.” Among humans, coronavirus infections most often occur during the winter months and early spring. People regularly become ill with a cold due to a coronavirus and may catch the same one about 4 months later. This is because coronavirus antibodies do not last for a long time. Also, the antibodies for one strain of coronavirus may be ineffective against another one.
